@@ -1,0 +1,9 @@
+body{
+	/**
+	 *  Estilos para definit el fondo de pantalla de login
+	 * */
+	background-image: url('');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+}
